@@ -1,7 +1,3 @@
-## Bijgewerkte README.md
-
----
-
 # Nokta Notes
 
 Nokta is a local-first note editor with a built-in MCP server for AI-assisted writing and research. Everything is stored in a single `.nokta` file.
